@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaj Patel</h1>
 <h3 align="center">Always curious. Forever learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yajpatel&label=Profile%20views&color=0e75b6&style=flat" alt="yajpatel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yajpatel" alt="yajpatel" /></a> </p>
-
 - 🔭 I’m currently working on [Freelancers-Platform](https://github.com/Yajpatel/Freelancers-Platform)
 
 - 🌱 I’m currently learning **and exploring about cloud platform**
